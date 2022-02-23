@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A form of prayer to be used next after the prayer in the time of war and tumults, in all churches and chappels of London and Westminster, at morning and evening prayer, as often as there is divine service, during the time of Their Majesties fleets being at sea. By her Majesties special command.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33021</idno>
+            <idno type="STC">Wing C4138</idno>
+            <idno type="STC">ESTC R213190</idno>
+            <idno type="EEBO-CITATION">99825674</idno>
+            <idno type="PROQUEST">99825674</idno>
+            <idno type="VID">30060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33021)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1756:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A form of prayer to be used next after the prayer in the time of war and tumults, in all churches and chappels of London and Westminster, at morning and evening prayer, as often as there is divine service, during the time of Their Majesties fleets being at sea. By her Majesties special command.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill and the executrix of Thomas Newcomb, deceas'd; printers to the King and Queens most Excellent Majesties,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With imprint date in Arabic numbers.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Prayer-books and devotions --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30060:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <p>A FORM OF PRAYER To be Uſed Next after the Prayer <hi>in the time of War and Tumults,</hi> in all Churches and Chappels of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> at Morning and Evening Prayer, as often as there is Divine Service, during the time of Their Majeſties Fleets being at Sea.</p>
+            <p>
+               <hi>By Her Majeſties ſpecial Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd; Printers to the King and Queens moſt Excellent Majeſties. 1691.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:30060:1"/>
+            <!-- PDF PAGE 46 -->
+            <head>
+               <hi>Whitehall,</hi> 
+               <date>May 27. 1691.</date>
+            </head>
+            <p>IT is Her Majeſties Pleaſure, That this Form of Prayer be forthwith Printed and Publiſhed, and that it be Uſed next after the Prayer <hi>in the time of War and Tumults,</hi> in all the Churches and Chappels of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> at Morning and Evening Prayer, as often as there is Divine Service, during the time of Their Majeſties Fleets being at Sea.</p>
+            <closer>
+               <signed>Nottingham.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="in wartime" type="prayer">
+            <pb n="3" facs="tcp:30060:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>A FORM OF PRAYER To be Uſed Next after the Prayer <hi>in the time of War and Tumults,</hi> in all Churches and Chappels of <hi>London</hi> and <hi>Weſtminſter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lmighty and moſt glorious Lord God, the great Crea<g ref="char:EOLhyphen"/>tour and Governour of all things, who, when thou didſt divide the Nations, and deter<g ref="char:EOLhyphen"/>mine the Bounds of their Ha<g ref="char:EOLhyphen"/>bitation, waſt pleaſed of thy eſpecial Goodneſs to the In<g ref="char:EOLhyphen"/>habitants of this Land, to encompaſs it with the Sea, as a Wall of Defence to us on every ſide; ſo that we are not, like the Nations a<g ref="char:EOLhyphen"/>bout
+<pb n="4" facs="tcp:30060:3"/>
+               <!-- PDF PAGE 48 -->us, expoſed to continual Invaſion, and e<g ref="char:EOLhyphen"/>ſpecially at this time, to the Ravage and Fury of the common Enemy and Oppreſſor: We bleſs thy Name for this happy Advantage which thy Providence hath given us for the Security of theſe Iſlands, and likewiſe for the timely Pre<g ref="char:EOLhyphen"/>parations which thou haſt enabled us to make for the Guard of our Seas. We do not truſt in our Naval Force, neither will our Ships ſave us: Vain are all theſe helps without thee, O God our Defence, and the Rock of our Salva<g ref="char:EOLhyphen"/>tion. Thou therefore who commandeſt the Winds and the Seas, and they obey thee, ſhew thy Power, we beſeech thee, in rendring them favourable to us in this Expedition. Be thou a preſent help to them that fight for us in all their Neceſſities. Gird them with ſtrength unto Battel, ſubdue thoſe that riſe up againſt them. Bring them back with Victory and good Suc<g ref="char:EOLhyphen"/>ceſs; that we being delivered from the hand of our Enemies, may ſerve thee without fear, in holineſs and righteouſneſs before thee all the days of our lives, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
